@@ -1,7 +1,3 @@
-main {
-  margin-top: 40px;
-  margin-left: 50px;
-}
 .delicious {
   float: left;
   border: 3px solid green;
@@ -14,4 +10,8 @@ main {
 
 #top-header {
   display: block;
+}
+main {
+  clear: both;
+  margin-top: 50px;
 }
