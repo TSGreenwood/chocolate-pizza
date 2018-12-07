@@ -1,0 +1,17 @@
+main {
+  margin-top: 40px;
+  margin-left: 50px;
+}
+.delicious {
+  float: left;
+  border: 3px solid green;
+  /* display: inline-block; */
+}
+.icons {
+  float: right;
+  border: 2px solid red;
+}
+
+#top-header {
+  display: block;
+}
