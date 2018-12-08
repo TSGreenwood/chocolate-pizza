@@ -1,4 +1,7 @@
-
+body {
+  margin-left: 150px;
+  margin-right: 250px;
+}
 .delicious {
   float: left;
   padding-right: 2px;
@@ -7,18 +10,13 @@
 .icons {
   float: right;
   padding-top: 25px;
-  padding-right: 275px;
 }
-/* .delicious-right {
-  /* margin-right: 10px; */
-  
-} */
+
 #top-header {
   display: block;
 }
 .printer {
   float: right;
-  padding-right: 15px;
 }
 ul {
   display: inline-block;
@@ -27,7 +25,51 @@ main {
   clear: both;
   margin-top: 50px;
 }
+.chocolate-title {
+  margin-left: 5px;
+}
 .pizza-img {
   margin: 0 auto;
   display: block;
+  width: 100%;
 }
+h3 {
+  font-weight: bold;
+  font-size: 20px;
+}
+h4 {
+  font-weight: bold;
+}
+.instructions p {
+  padding-top: 5px;
+  text-indent: 25px;
+}
+.instructions {
+  padding-bottom: 20px;
+}
+footer {
+  clear: both;
+}
+.vanessa {
+  float: left;
+  padding-top: 25px;
+}
+.button-icon {
+  float: right;
+}
+.copyright-info {
+  text-align: center;
+}
+.shopping-list {
+  background-image: url("../img/list-bg.png");
+ }
+ 
+ #list-one {
+  display: inline-block;
+  list-style-type: square;
+  height: 100px;
+ }
+ #list-two {
+  display: inline-block;
+  list-style-type: square;
+ }
