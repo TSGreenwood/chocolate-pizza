@@ -1,14 +1,33 @@
+
 .delicious {
   float: left;
+  padding-right: 2px;
   border: 3px solid green;
 }
 .icons {
   float: right;
+  padding-top: 25px;
+  padding-right: 275px;
 }
+/* .delicious-right {
+  /* margin-right: 10px; */
+  
+} */
 #top-header {
   display: block;
+}
+.printer {
+  float: right;
+  padding-right: 15px;
+}
+ul {
+  display: inline-block;
 }
 main {
   clear: both;
   margin-top: 50px;
+}
+.pizza-img {
+  margin: 0 auto;
+  display: block;
 }
