@@ -62,14 +62,16 @@ footer {
 }
 .shopping-list {
   background-image: url("../img/list-bg.png");
+  position: relative;
  }
  
  #list-one {
   display: inline-block;
   list-style-type: square;
-  height: 100px;
+  position: absolute;
  }
  #list-two {
   display: inline-block;
   list-style-type: square;
+  float: left;
  }
